@@ -41,3 +41,27 @@ li{
     padding-bottom: 8px;
     margin-right: 3px;
 }
+
+.num:hover{
+    background-color: rgb(165, 82, 82);
+    color: rgb(89, 89, 178);
+
+}
+   
+    
+button{
+background-color: rgb(89, 89, 178);
+  border-radius: 13px;
+  color: rgb(165, 82, 82);
+  padding: 15px 8rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+button:hover{
+    background-color: rgb(165, 82, 82);
+    color: rgb(89, 89, 178);
+
+}
