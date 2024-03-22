@@ -5,7 +5,16 @@ body{
 }
 
 h1,p,li{
-    color: whitesmoke;
+    color: rgb(165, 82, 82);
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(200, 126, 31);
+    margin: 10rem 30rem 10rem 30rem;
+    padding: 3rem 2rem 3rem 2rem;
+    border-radius: 13px;
 }
 
 .fa-star{
@@ -13,10 +22,22 @@ h1,p,li{
     color: orange;
 }
 
+
 ul{
     display: flex;
 }
 
 li{
     list-style-type: none;
+}
+
+.num{
+    font-size: 2rem;
+    background-color: rgb(89, 89, 178);
+    border-radius: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-right: 3px;
 }
