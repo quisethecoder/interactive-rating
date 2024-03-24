@@ -4,21 +4,20 @@ body{
     background-color: black;
 }
 
-h1,p,li{
+h1,p, .num{
     color: rgb(165, 82, 82);
+    cursor: pointer;
 }
 
 
 .container{
     justify-content: center;
     align-items: center;
-    display: flex;
-    /* flex-direction: column; */
-    
+    display: flex; 
 }
 
 .wrapper{
-    background-color: rgb(200, 126, 31);
+    background-color: rgb(33, 24, 12);
     margin: 10rem 30rem 10rem 30rem;
     padding: 3rem 5rem 3rem 5rem;
     border-radius: 13px;
@@ -29,25 +28,27 @@ h1,p,li{
     color: orange;
 }
 
-
-ul{
+/* ul{
     display: flex;
-}
+} */
 
-li{
+/* li{
     list-style-type: none;
     font-weight: 500;
+} */
+
+.number-wrap{
+    display: flex;
+    margin-bottom: 1rem;
 }
 
 .num{
-    font-size: 2rem;
-    background-color: rgb(89, 89, 178);
+    font-size: 1rem;
+    background-color: rgb(89, 89, 178); 
+    color:  rgb(165, 82, 82);
     border-radius: 50px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 8px;
-    padding-bottom: 8px;
-    margin-left: 1rem;
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    margin-left: 5px;
 }
 
 .num:hover{
