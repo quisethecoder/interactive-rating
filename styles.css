@@ -28,15 +28,6 @@ h1,p, .num{
     color: orange;
 }
 
-/* ul{
-    display: flex;
-} */
-
-/* li{
-    list-style-type: none;
-    font-weight: 500;
-} */
-
 .number-wrap{
     display: flex;
     margin-bottom: 1rem;
