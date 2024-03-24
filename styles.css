@@ -12,9 +12,15 @@ h1,p,li{
 .container{
     justify-content: center;
     align-items: center;
+    display: flex;
+    /* flex-direction: column; */
+    
+}
+
+.wrapper{
     background-color: rgb(200, 126, 31);
     margin: 10rem 30rem 10rem 30rem;
-    padding: 3rem 2rem 3rem 2rem;
+    padding: 3rem 5rem 3rem 5rem;
     border-radius: 13px;
 }
 
