@@ -19,3 +19,5 @@ HTML: Markup language for structuring the web page.
 CSS: Stylesheet language for styling the web page.
 JavaScript: Programming language for implementing interactivity and functionality.
 Font Awesome: Icon toolkit used for adding icons to the web page.
+
+![Screen Shot 2024-03-28 at 12 15 14 AM](https://github.com/quisethecoder/interactive-rating/assets/97071278/a4c32e60-726f-418b-b8eb-4616e3387d61)
