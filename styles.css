@@ -74,7 +74,7 @@ button:hover{
 
 }
 
-.fa-pen-to-square, .rating, .headMess, .additional-message{
+.fa-pen-to-square, .rating, .headMess{
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -105,3 +105,6 @@ button:hover{
     display: flex; 
 }
 
+.wrap{
+    margin: 10rem 28rem 10rem 28rem;
+}

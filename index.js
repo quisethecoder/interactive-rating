@@ -46,6 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
             wrapper.appendChild(ratingMessage);
             wrapper.appendChild(headMess);
             wrapper.appendChild(additionalMessageElem);
+            wrapper.classList.add("wrap");
             container.classList.add("submitted"); 
         } else {
             console.log("Please select a rating before submitting. There was an error");
