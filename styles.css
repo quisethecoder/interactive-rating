@@ -73,3 +73,28 @@ button:hover{
     color: rgb(89, 89, 178);
 
 }
+
+.fa-pen-to-square, .rating, .headMess, .additional-message{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.fa-pen-to-square{
+    color: rgb(165, 82, 82);
+    font-size: 5rem;
+    
+}
+
+
+.rating{
+    color: rgb(232, 137, 64);
+    background-color: rgb(16, 21, 34);
+    border-radius: 50px;
+    padding: 10px 10px 10px 10px;
+}
+
+.headMess, .additional-message{
+    color: aliceblue;
+}
