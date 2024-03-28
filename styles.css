@@ -95,6 +95,7 @@ button:hover{
     padding: 10px 10px 10px 10px;
 }
 
-.headMess, .additional-message{
+.headMess{
     color: aliceblue;
 }
+
