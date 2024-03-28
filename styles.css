@@ -109,7 +109,7 @@ button:hover{
     margin: 10rem 28rem 10rem 28rem;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 1080px){
     .wrapper{
         background-color: rgb(33, 24, 12);
         margin: 10rem 20rem 10rem 20rem;
