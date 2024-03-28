@@ -42,7 +42,13 @@ h1,p, .num{
     margin-left: 5px;
 }
 
-.num:active, .num:focus, .num:hover{
+.num:hover{
+    background-color: rgb(165, 82, 82);
+    color: rgb(89, 89, 178);
+}
+
+
+.num:active, .num:focus{
     background-color: rgb(165, 82, 82);
     color: rgb(89, 89, 178);
 
