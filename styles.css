@@ -109,7 +109,23 @@ button:hover{
     margin: 10rem 28rem 10rem 28rem;
 }
 
+
 @media screen and (max-width: 1080px){
+    .wrapper{
+        background-color: rgb(33, 24, 12);
+        margin: 10rem 20rem 10rem 20rem;
+        padding: 3rem 2rem 3rem 3rem;
+        border-radius: 13px;
+    }
+
+    .wrap{
+        margin: 10rem 18rem 10rem 18rem;
+        padding: 3rem 2rem 3rem 2rem;
+    }
+
+}
+
+@media screen and (max-width: 500px){
     .wrapper{
         background-color: rgb(33, 24, 12);
         margin: 10rem 20rem 10rem 20rem;
