@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
     function handleNumberClick(event) {
         selectedNumber = parseInt(event.target.textContent);
         console.log("You selected:", selectedNumber);
-    }
+    } 
 
     // Add click event listener to each number
     nums.forEach(num => {
